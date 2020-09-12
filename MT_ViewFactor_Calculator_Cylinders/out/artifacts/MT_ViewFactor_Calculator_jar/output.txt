@@ -1,0 +1,28 @@
+-------------------- STARTING NEW TEST BATCH --------------------
+Time: 2019/07/23 13:40:20
+-----------------------------------------------------------------
+-------------------- Results --------------------
+Test: 
+
+Emitter Tessellations: 57343 Receiver Tessellations: 57445
+
+Calculated view factor: 0.28446447810024145
+
+GPU time: 117.0036555
+Total time: 117.596395
+
+Task completed.
+-------------------- STARTING NEW TEST BATCH --------------------
+Time: 2019/07/23 13:42:50
+-----------------------------------------------------------------
+-------------------- Results --------------------
+Test: 
+
+Emitter Tessellations: 57343 Receiver Tessellations: 57445
+
+Calculated view factor: 0.28446447810024134
+
+GPU time: 117.9703909
+Total time: 118.5714671
+
+Task completed.
